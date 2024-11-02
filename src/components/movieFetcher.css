@@ -1,0 +1,12 @@
+.enter-movie-text {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+.enter-movie-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
